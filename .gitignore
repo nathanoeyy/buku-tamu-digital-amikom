@@ -1,0 +1,8 @@
+# Kredensial database lokal (opsional jika nanti dipisah)
+.env
+
+# File sistem OS & editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
